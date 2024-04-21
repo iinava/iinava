@@ -4,7 +4,7 @@ About Me 🦉
 Full stack developer
 --------------------
 
-React.js developer with Django backend expertise, skilled in Tailwind, Redux, and MySQL for creating high-performance and visually appealing web applications.
+React.js developer with Django backend expertise, skilled in Tailwind, Redux, and Sqlite for creating high-performance and visually appealing web applications.
 
 * 🌍  I'm based in kerala,india
 * 🖥️  See my portfolio at [navaneeth.dev-portfolio](http://navaneeth-dev.vercel.app/)
