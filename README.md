@@ -6,12 +6,10 @@ Full stack developer
 
 React.js developer with Django backend expertise, skilled in Tailwind, Redux, and Sqlite for creating high-performance and visually appealing web applications.
 
-* 🌍  I'm based in kerala,india
 * 🖥️  See my portfolio at [navaneeth.dev-portfolio](http://navaneeth-dev.vercel.app/)
 * ✉️  You can contact me at [i.navaneeth0@gmail.com](mailto:i.navaneeth0@gmail.com)
 * 🚀  I'm currently working on [Realesto](https://github.com/iinava/RealEsto)
-* 🧠  I'm learning Next js , Express, Mongo, jwt , cloudinary
-* 🤝  I'm open to collaborating on intresting projects
+
 
 ### Skills
 
